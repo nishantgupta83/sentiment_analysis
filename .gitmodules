@@ -1,3 +1,6 @@
 [submodule "final_project"]
 	path = final_project
 	url = https://github.com/rayoconico/F-Quinteros-final-project-emb-ai.git
+[submodule "final_project_1"]
+	path = final_project_1
+	url = https://github.com/rayoconico/F-Quinteros-final-project-emb-ai.git
